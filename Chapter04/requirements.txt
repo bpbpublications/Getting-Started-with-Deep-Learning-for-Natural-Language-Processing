@@ -1,0 +1,7 @@
+nltk==3.3
+pandas==0.23.0
+torch==1.0.0
+numpy==1.16.0
+matplotlib==2.2.2
+tqdm==4.29.1
+torchtext==0.3.1

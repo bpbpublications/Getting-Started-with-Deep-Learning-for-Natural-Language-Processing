@@ -1,0 +1,13 @@
+torchtext==0.3.1
+nltk==3.2.4
+matplotlib==2.2.2
+torchvision==0.2.2.post3
+torch==0.4.1
+tqdm==4.31.1
+pandas==0.20.3
+numpy==1.15.4
+Pillow==6.0.0
+RMDL==1.0.6
+sentencepiece==0.1.82
+scikit_learn==0.21.2
+tensorboardX==1.7

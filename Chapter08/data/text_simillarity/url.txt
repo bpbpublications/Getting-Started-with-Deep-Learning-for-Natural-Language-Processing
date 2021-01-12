@@ -1,0 +1,2 @@
+Location : https://toolbox.google.com/datasetsearch/search?query=Text%20Similarity&docid=75nrwEWUt2iYCGbyAAAAAA%3D%3D
+License : https://opendatacommons.org/licenses/dbcl/1.0/

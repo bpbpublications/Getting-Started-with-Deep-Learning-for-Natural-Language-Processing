@@ -1,0 +1,6 @@
+torch==0.4.1
+torchvision==0.2.2.post3
+matplotlib==3.0.3
+numpy==1.16.2
+ipython==7.5.0
+tensorboardX==1.7
